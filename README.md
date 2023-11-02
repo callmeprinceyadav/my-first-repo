@@ -1,8 +1,11 @@
 GIT & GITHUB
+
 This is just a description of GIT & GITHUB and it's commands and what things i have done using the instruction.
 
 Author
-[@callmeprinceyadav]https://github.com/callmeprinceyadav
+[@callmeprinceyadav] https://github.com/callmeprinceyadav
+
+
 1. Basic Instructions that i have followed to create this repository. ->
 Created a new public repository and Named it to "my-first-repo."
 
@@ -40,10 +43,9 @@ Again i have used git status , git add . , git commit to stage and commit the ch
 
 Used the git push -u origin feature/additional-greeting command to push the "feature/additional-greeting" branch to my GitHub repository.
 
+
 6. Creating a Pull Request and Reviewing and Merging.
 I came to my github repository and created a new pull Request it is very simple to created.
 
-After all the review and inspection i merged the branch to the main branch.
 
-Feedback
-If you have any feedback, please reach out to me at pkryadav9304@gmail.com Thank You ;)
+After all the review and inspection i merged the branch to the main branch.
